@@ -26,31 +26,50 @@ This is my portfolio assignment
   </p>
 </div>
 
-<h3><a href="./connect4" >Connect4 App</a></h3>
-<img width="404" alt="Screenshot 2024-08-15 at 12 58 57 PM" src="https://github.com/user-attachments/assets/e047fd03-17f6-497a-b339-4a5a99abe78a">
+<h3><a href="./WebForm" >Node and Express</a></h3>
+<img width="956" alt="pic" src="https://github.com/user-attachments/assets/16a6441f-6425-411f-9067-bc993cafed85">
 <div>
+
   <p>
-    This was another project similar to the hangman game where most of my time was spent on the game logic in the frontend. Simlarly to the rest of the projects in this repo it was all done with different stages of the MERN stack. This one was pretty straightforward. We followed a guide online as a class to get us introduced to the way that MERN can work. Although this didnt include Mongo or a backend.
+    This Was just and intro to express, we set up an environment which ran express and was simple with no real challenge. 
   </p>
 </div>
 
-<h3><a href="./mongo-e" >Mongo Introduction</a></h3>
-<img width="1467" alt="Screenshot 2024-08-15 at 2 10 49 PM" src="https://github.com/user-attachments/assets/3f709059-9a08-43d7-839d-fba1128f05dd">
+<h3><a href="./Assignment1" >File Storage</a></h3>
+<img width="195" alt="file1" src="https://github.com/user-attachments/assets/b7dda5d4-3de5-4157-89f8-d7dcf06711d1">
+<img width="182" alt="file2" src="https://github.com/user-attachments/assets/3f329407-fcb9-4f65-b590-87dbd126e2ea">
 
 <div>
   <p>
-    This project acted as a mongo db introduction. We used mongo and node routes to fetch different users which had different attributes such as name, position, level, etc... The main functionality was to be able to add, delete, and edit different users within the front end. Unfortunately, we deleted the mongo store, and i lost connection due to another student "owning" the db. However this is the what the frontend looked like. 
+    This project demonstrated use of Node.js and Express. The troublesome part of this project was getting the other page to recognize and choose from input. Building the table and using cells to say if cell is the same as this print it out. Definitely challenging for me. Over all just backend and frontend route setting with some forms to publish. 
   </p>
 </div>
 
-<h3><a href="./ticTacToe" >ticTacToe</a></h3>
-<img width="233" alt="Screenshot 2024-08-15 at 2 32 44 PM" src="https://github.com/user-attachments/assets/0b0a06ac-29a0-49bd-a9b6-0ee51de0a3a5">
+<h3><a href="./HelloWorld" >Hello Mern</a></h3>
+<img width="153" alt="hello" src="https://github.com/user-attachments/assets/b799afa8-182c-418c-a051-d53222fd8f6a">
 
 <div>
   <p>
-    This project like the connect4 is mainly focused on the frontend. Again i liked to work on the frontend game logic. One of the hurdles i had was working with states as i had not been exposed to this in any other class so far.
+    This was just a little intro to our groups! We were tasked with setting up a simple hello world REACT App to demonstrate github repositories and all the functions that git hub uses to share and commit changes to a shared project.
   </p>
 </div>
 
+<h3><a href="./M&S" >Mern and Sessions</a></h3>
+<img width="587" alt="ms1" src="https://github.com/user-attachments/assets/0d3437b0-488e-46b9-92b4-2fcd44ce7a4c">
+
+<div>
+  <p>
+    This was just a little intro to our groups! We were tasked with setting up a simple hello world REACT App to demonstrate github repositories and all the functions that git hub uses to share and commit changes to a shared project.
+  </p>
+</div>
+
+<h3><a href="./Assignment3" >RESTful API</a></h3>
+<img width="611" alt="REST" src="https://github.com/user-attachments/assets/90d94ffb-c386-40d7-8bb4-033e6cc9184c">
+
+<div>
+  <p>
+    This Project was just using the browser extention RESTful API to test some of the backend functions like POST and GET. Just tested functionality and was a good demonstration for trouble shooting in the future. Overall no issues, not very challenging, learned a lot. 
+  </p>
+</div>
 
 
